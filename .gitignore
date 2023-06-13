@@ -1,0 +1,14 @@
+# For the sake of demo, we aren't storing generated files (tf lock, statefile, etc) in git. 
+# In a production environment, the state files would need to stored in an external location. 
+
+# Terraform output files
+output/
+
+# Terraform generated files
+terraform/applications/cluster/.terraform*
+
+# Terrafom state files
+terraform/applications/cluster/terraform.tfstate*
+
+# Kubernetes cluster configuration
+kubeconfig
