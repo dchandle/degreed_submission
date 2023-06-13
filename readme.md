@@ -1,6 +1,8 @@
 
 # 🚀 Degreed Technical Challenge 🚀
 
+Example Service Link: http://20.227.144.123:3000/
+
 The repository implements the specification of the [Degreed technical challenge](https://github.com/degreed/devops_cloud_engineer_challenge). 
 
 ## 🏠 Repository Structure
